@@ -48,7 +48,7 @@ const featuredProjects = [
 
 const Projects = () => {
   return (
-    <section className="bg-black text-white py-24 px-6 md:px-20">
+    <section id="projects" className="bg-black text-white py-24 px-6 md:px-20">
       <div className="text-center mb-20">
         <h2 className="text-5xl md:text-6xl font-extrabold mb-4 tracking-tight">
           Featured{" "}
